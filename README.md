@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://simranagarwal.in/](https://simranagarwal.in/)
 
-- 📝 I regularly write articles on [https://simranagarwal.in/](https://simranagarwal.in/)
+- 📝 I regularly write articles on [https://simranagarwal.in/blog/](https://simranagarwal.in/blog/)
 
 - 📫 How to reach me **simransgarg01@gmail.com**
 
