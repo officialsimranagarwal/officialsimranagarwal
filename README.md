@@ -51,9 +51,4 @@
 
 ---
 
----
-
-### 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=officialsimranagarwal&theme=radical)](https://git.io/streak-stats)
 
