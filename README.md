@@ -49,7 +49,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialsimranagarwal&show_icons=true&theme=radical" alt="Simran's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialsimranagarwal&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+---
+
+### 📊 GitHub Stats
+
+![Simran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=officialsimranagarwal&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=officialsimranagarwal&layout=compact&theme=radical)
+
