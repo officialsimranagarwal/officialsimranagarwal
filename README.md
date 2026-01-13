@@ -51,8 +51,9 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
-![Simran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=officialsimranagarwal&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=officialsimranagarwal&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=officialsimranagarwal&theme=radical)](https://git.io/streak-stats)
 
